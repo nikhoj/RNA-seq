@@ -5,3 +5,10 @@ __pycache__/
 # large / regenerable artifacts
 data/raw/
 data/processed/
+
+report/*assets/
+report/*node_modules/
+report/*.pptx
+report/*.pdf
+report/package*
+report/build_deck.js
