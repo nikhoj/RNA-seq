@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import importlib.util as u; mods=['pydeseq2','plotnine','scanpy','anndata','gseapy','seaborn','adjustText','pandas','numpy','scipy','statsmodels','GEOparse','sklearn','matplotlib']; [print\\(m, 'OK' if u.find_spec\\(m\\) else 'MISSING'\\) for m in mods]\")",
+      "Bash(/Users/abdullah/miniforge3/bin/python --version)",
+      "Bash(conda env *)",
+      "Bash(conda create *)",
+      "Bash(/Users/abdullah/miniforge3/envs/rnaseq/bin/pip install *)",
+      "Bash(/Users/abdullah/miniforge3/envs/rnaseq/bin/python -c \"import pydeseq2, plotnine, scanpy, gseapy, sklearn; print\\('ALL IMPORTS OK'\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# caches
+__pycache__/
+*.pyc
+
+# large / regenerable artifacts
+data/raw/
+data/processed/
+results/figures/
+results/tables/
+report/*_report.md
