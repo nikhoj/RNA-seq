@@ -10,15 +10,15 @@ _Generated 2026-07-14 | thresholds: padj < 0.05, |log2FC| >= 1.0_
 
 ### count_densities
 
-![count_densities](../results/figures/phase1_qc/count_densities.png)
+![count_densities](./assets/gse_count_densities.png)
 
 ### detected_genes
 
-![detected_genes](../results/figures/phase1_qc/detected_genes.png)
+![detected_genes](./assets/gse_detected_genes.png)
 
 ### library_size
 
-![library_size](../results/figures/phase1_qc/library_size.png)
+![library_size](./assets/gse_library_size.png)
 
 ## Phase 2 - EDA / normalization
 
