@@ -6,7 +6,7 @@ __pycache__/
 data/raw/
 data/processed/
 
-report/*assets/
+
 report/*node_modules/
 report/*.pptx
 report/*.pdf
