@@ -28,11 +28,11 @@ _Generated 2026-07-14 | thresholds: padj < 0.05, |log2FC| >= 1.0_
 
 ### pca
 
-![pca](../results/figures/phase2_qc/pca.png)
+![pca](./assets/gse_pca.png)
 
 ### sample_distance_heatmap
 
-![sample_distance_heatmap](../results/figures/phase2_qc/sample_distance_heatmap.png)
+![sample_distance_heatmap](./assets/gse_sample_distance_heatmap.png)
 
 ## Phase 3 - Differential expression
 
