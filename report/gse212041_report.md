@@ -82,10 +82,6 @@ _Generated 2026-07-14 | thresholds: padj < 0.05, |log2FC| >= 1.0_
 
 ![outcome_roc](../results/figures/phase4_timecourse/outcome_roc.png)
 
-### signature_glucocorticoid_response
-
-![signature_glucocorticoid_response](../results/figures/phase4_timecourse/signature_glucocorticoid_response.png)
-
 ### time_heatmap
 
 ![time_heatmap](../results/figures/phase4_timecourse/time_heatmap.png)
